@@ -127,3 +127,15 @@ I'm a **security researcher** who lives on the edge of the web — hunting for v
 | 🦈 Pull Shark | 🥉 | 12 merged PRs (docs, fixes, cleanups across repos) |
 | ⚡ Quickdraw | 🥉 | Issues opened & resolved in minutes |
 | 🚀 YOLO | 🥉 | Merged PRs without review |
+
+<!-- STATS:START -->
+## 📊 Live Stats
+
+| Metric | Value |
+|---|---|
+| Followers | — |
+| Public repos | — |
+| Total stars | — |
+
+> _Last refreshed: — (auto-updated daily by GitHub Actions)_
+<!-- STATS:END -->
