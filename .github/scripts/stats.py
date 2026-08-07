@@ -9,6 +9,7 @@ import json
 import os
 import re
 import urllib.request
+import urllib.error
 
 TOKEN = os.environ.get("GH_TOKEN", "")
 HDRS = {"Authorization": f"Bearer {TOKEN}", "User-Agent": "profile-stats-bot",
@@ -16,14 +17,21 @@ HDRS = {"Authorization": f"Bearer {TOKEN}", "User-Agent": "profile-stats-bot",
 API = "https://api.github.com"
 
 
-def get(path):
-    req = urllib.request.Request(API + path, headers=HDRS)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
+def get(path, authed=True):
+    hdrs = dict(HDRS) if (authed and TOKEN) else {"User-Agent": "profile-stats-bot",
+                                                 "Accept": "application/vnd.github+json"}
+    req = urllib.request.Request(API + path, headers=hdrs)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        if e.code == 403 and authed and TOKEN:
+            return get(path, authed=False)
+        raise
 
 
 def main():
-    user = get("/users/riteshekbote")
+    user = get("/users/riteshekbote", authed=False)
     repos = get("/user/repos?affiliation=owner&per_page=100&sort=updated")
     stars = sum(r.get("stargazers_count", 0) for r in repos)
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
