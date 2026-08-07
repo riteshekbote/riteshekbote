@@ -114,3 +114,16 @@ I'm a **security researcher** who lives on the edge of the web — hunting for v
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&repeat=true&width=560&lines=Happy%20Hacking%20%F0%9F%91%8D;if%20hacking%3A%20keep%20exploring%2C%20stay%20legal%2C%20stay%20curious" alt="Footer" />
 </p>
+
+## 🏆 Achievements & Stats
+
+![GitHub followers](https://img.shields.io/github/followers/riteshekbote?style=for-the-badge&logo=github&color=6e5494)
+![GitHub stars](https://img.shields.io/github/stars/riteshekbote?style=for-the-badge&logo=github&color=6e5494)
+![GitHub repo count](https://img.shields.io/github/repo-count/riteshekbote?style=for-the-badge&logo=github&color=6e5494)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friteshekbote&count_bg=%236e5494&title_bg=%23555&title=profile+views&edge_flat=true)
+
+| Achievement | Tier | How |
+|---|---|---|
+| 🦈 Pull Shark | 🥉 | 12 merged PRs (docs, fixes, cleanups across repos) |
+| ⚡ Quickdraw | 🥉 | Issues opened & resolved in minutes |
+| 🚀 YOLO | 🥉 | Merged PRs without review |
