@@ -32,7 +32,7 @@ def get(path, authed=True):
 
 def main():
     user = get("/users/riteshekbote", authed=False)
-    repos = get("/user/repos?affiliation=owner&per_page=100&sort=updated")
+    repos = get("/users/riteshekbote/repos?per_page=100&sort=updated", authed=False)
     stars = sum(r.get("stargazers_count", 0) for r in repos)
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
