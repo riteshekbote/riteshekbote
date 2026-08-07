@@ -133,9 +133,17 @@ I'm a **security researcher** who lives on the edge of the web — hunting for v
 
 | Metric | Value |
 |---|---|
-| Followers | — |
-| Public repos | — |
-| Total stars | — |
+| Followers | **0** |
+| Public repos | **95** |
+| Total stars | **3** |
 
-> _Last refreshed: — (auto-updated daily by GitHub Actions)_
+**Recently updated:**
+
+- [riteshekbote](https://github.com/riteshekbote/riteshekbote) — ✨ My GitHub profile — bug bounty hunter, security researcher, CTF player
+- [whitespace-warfare-ctf](https://github.com/riteshekbote/whitespace-warfare-ctf) — CTF writeup and zero-width steganography decoder script
+- [aboutme.genzctf.xyz](https://github.com/riteshekbote/aboutme.genzctf.xyz) — no description
+- [genzctf](https://github.com/riteshekbote/genzctf) — no description
+- [url-fyers](https://github.com/riteshekbote/url-fyers) — no description
+
+> _Last refreshed: 2026-08-07 08:05 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
