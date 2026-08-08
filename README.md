@@ -134,16 +134,16 @@ I'm a **security researcher** who lives on the edge of the web — hunting for v
 | Metric | Value |
 |---|---|
 | Followers | **0** |
-| Public repos | **95** |
+| Public repos | **102** |
 | Total stars | **3** |
 
 **Recently updated:**
 
-- [riteshekbote](https://github.com/riteshekbote/riteshekbote) — ✨ My GitHub profile — bug bounty hunter, security researcher, CTF player
-- [whitespace-warfare-ctf](https://github.com/riteshekbote/whitespace-warfare-ctf) — CTF writeup and zero-width steganography decoder script
-- [aboutme.genzctf.xyz](https://github.com/riteshekbote/aboutme.genzctf.xyz) — no description
-- [genzctf](https://github.com/riteshekbote/genzctf) — no description
-- [url-fyers](https://github.com/riteshekbote/url-fyers) — no description
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — 24/7 multi-model bug-hunting automation for Google VRP + Microsoft Bounty (passive, in-scope, read-only). 5 opencode models, 10-min cadence, repo deep-scan, triager validation.
+- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
+- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation for signageOS — box.signageos.io + api.signageos.io only
+- [whale-hunt](https://github.com/riteshekbote/whale-hunt) — 24/7 multi-model bug-hunting automation for Naver Whale browser — latest version, sync, Whale-only third-party libs
+- [spare-hunt](https://github.com/riteshekbote/spare-hunt) — 24/7 multi-model bug-hunting automation for Spare — spare.com, sparelabs.com, platform/api/routing/forms.sparelabs.com
 
-> _Last refreshed: 2026-08-07 08:05 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-08-08 05:07 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
