@@ -134,16 +134,16 @@ I'm a **security researcher** who lives on the edge of the web — hunting for v
 | Metric | Value |
 |---|---|
 | Followers | **0** |
-| Public repos | **102** |
-| Total stars | **3** |
+| Public repos | **106** |
+| Total stars | **4** |
 
 **Recently updated:**
 
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — 24/7 multi-model bug-hunting automation for Google VRP + Microsoft Bounty (passive, in-scope, read-only). 5 opencode models, 10-min cadence, repo deep-scan, triager validation.
-- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
-- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation for signageOS — box.signageos.io + api.signageos.io only
 - [whale-hunt](https://github.com/riteshekbote/whale-hunt) — 24/7 multi-model bug-hunting automation for Naver Whale browser — latest version, sync, Whale-only third-party libs
+- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
 - [spare-hunt](https://github.com/riteshekbote/spare-hunt) — 24/7 multi-model bug-hunting automation for Spare — spare.com, sparelabs.com, platform/api/routing/forms.sparelabs.com
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — 24/7 multi-model bug-hunting automation for Google VRP + Microsoft Bounty (passive, in-scope, read-only). 5 opencode models, 10-min cadence, repo deep-scan, triager validation.
+- [gladia-hunt](https://github.com/riteshekbote/gladia-hunt) — 24/7 multi-model bug-hunting automation for Gladia — api.gladia.io (Highest), app.gladia.io (High), official SDKs (Medium), gladia.io (Low)
 
-> _Last refreshed: 2026-08-08 05:07 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-08-09 05:14 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
