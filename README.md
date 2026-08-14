@@ -56,11 +56,18 @@ SEVERITY: CRITICAL
 {
   "total_findings": "Confidential — active submissions",
   "vuln_classes": [
-    "Unauthenticated SQLi with WAF bypass",
-    "PII Disclosure — full customer data leak",
-    "Broken Access Control → Account Takeover",
-    "IDOR across multi-tenant platforms",
-    "LLM prompt injection & data exfil"
+    "Unauthenticated Blind SQLi — WAF bypass via hex-literal injection",
+    "PII Disclosure — full customer PII + CRM data exfil",
+    "Broken Access Control → Full Account Takeover chain",
+    "IDOR across multi-tenant platforms — cross-org data access",
+    "LLM Prompt Injection → system prompt extraction & data exfil",
+    "OAuth Misconfiguration → token theft & session hijack",
+    "Race Conditions on financial transactions — double-spend",
+    "Server-Side Request Forgery → internal network pivoting",
+    "JWT Key Confusion → HS256/RS256 algorithm swap attack",
+    "API Mass Assignment → privilege escalation to admin",
+    "GraphQL Depth & Cost Bypass → DoS & data enumeration",
+    "Insecure Deserialization → Remote Code Execution"
   ],
   "platforms_tested": "SEBI-regulated fintech, SaaS, AI/LLM, Web3",
   "status": "Multiple reports submitted, bounties incoming"
