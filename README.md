@@ -50,31 +50,26 @@ SEVERITY: CRITICAL
 
 ---
 
-### `> cat /bounty_log.json`
+### `> cat /impact_stats.json`
 
 ```json
-[
-  {
-    "program": "Fyers",
-    "finding": "Unauthenticated Blind SQLi",
-    "impact": "7 user records (emails, phones, Demat accounts)",
-    "severity": "🔴 CRITICAL",
-    "bypass": "Hex-literal injection → Cloudflare WAF bypass"
+{
+  "total_findings": "15+",
+  "severity_breakdown": {
+    "critical": "4",
+    "high": "6",
+    "medium": "5+"
   },
-  {
-    "program": "Fyers",
-    "finding": "PII Disclosure via Root Endpoint",
-    "impact": "Full customer data + Zoho CRM exposure",
-    "severity": "🟠 HIGH",
-    "status": "FIXED"
-  },
-  {
-    "program": "signageOS",
-    "finding": "Broken Access Control — Org-level IDOR",
-    "impact": "Full account takeover chain",
-    "severity": "🔴 CRITICAL"
-  }
-]
+  "vuln_classes": [
+    "Unauthenticated SQLi with WAF bypass",
+    "PII Disclosure — full customer data leak",
+    "Broken Access Control → Account Takeover",
+    "IDOR across multi-tenant platforms",
+    "LLM prompt injection & data exfil"
+  ],
+  "platforms_tested": "SEBI-regulated fintech, SaaS, AI/LLM, Web3",
+  "status": "Multiple reports submitted, bounties incoming"
+}
 ```
 
 ---
