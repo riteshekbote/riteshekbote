@@ -56,18 +56,18 @@ SEVERITY: CRITICAL
 {
   "total_findings": "Confidential — active submissions",
   "vuln_classes": [
-    "Unauthenticated Blind SQLi — WAF bypass via hex-literal injection",
-    "PII Disclosure — full customer PII + CRM data exfil",
-    "Broken Access Control → Full Account Takeover chain",
-    "IDOR across multi-tenant platforms — cross-org data access",
-    "LLM Prompt Injection → system prompt extraction & data exfil",
-    "OAuth Misconfiguration → token theft & session hijack",
-    "Race Conditions on financial transactions — double-spend",
-    "Server-Side Request Forgery → internal network pivoting",
-    "JWT Key Confusion → HS256/RS256 algorithm swap attack",
-    "API Mass Assignment → privilege escalation to admin",
-    "GraphQL Depth & Cost Bypass → DoS & data enumeration",
-    "Insecure Deserialization → Remote Code Execution"
+    "A01: Broken Access Control — IDOR, privilege escalation, forced browsing",
+    "A02: Cryptographic Failures — exposed secrets, weak encryption, plaintext storage",
+    "A03: Injection — SQLi, NoSQLi, LDAP, OS command injection",
+    "A04: Insecure Design — business logic flaws, race conditions, missing rate limits",
+    "A05: Security Misconfiguration — default creds, debug mode, verbose errors",
+    "A06: Vulnerable Components — known CVEs, outdated dependencies",
+    "A07: Auth Failures — session hijack, brute force, credential stuffing",
+    "A08: Data Integrity Failures — insecure deserialization, unsigned updates",
+    "A09: Logging Failures — missing audit trails, undetected intrusions",
+    "A10: SSRF — internal network pivoting, cloud metadata exfil",
+    "IDOR — cross-tenant data access, horizontal/vertical privilege abuse",
+    "LLM/AI — prompt injection, RAG poisoning, data exfil via tool use"
   ],
   "platforms_tested": "SEBI-regulated fintech, SaaS, AI/LLM, Web3",
   "status": "Multiple reports submitted, bounties incoming"
