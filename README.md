@@ -75,17 +75,17 @@ Security researcher who automates vulnerability discovery with AI-powered pipeli
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riteshbote&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=riteshbote&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riteshekbote&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=riteshekbote&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshbote&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=riteshbote&theme=radical&no-frame=true&column=6&margin-w=12" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshekbote&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=riteshekbote&theme=radical&no-frame=true&column=6&margin-w=12" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=riteshbote&theme=redical&hide_border=true&bg_color=0d1117&color=8a2be2&line=8a2be2&point=ffffff" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=riteshekbote&theme=redical&hide_border=true&bg_color=0d1117&color=8a2be2&line=8a2be2&point=ffffff" alt="Contribution Graph" />
 </p>
 
 ---
