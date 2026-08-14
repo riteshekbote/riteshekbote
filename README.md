@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+riteshkbote%3B+%0ABug+Bounty+Hunter+%7C+Security+Researcher+%7C+Automation+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/riteshekbote/riteshekbote/main/assets/matrix.svg" alt="Matrix Header" width="100%"/>
 
 <a href="https://github.com/riteshekbote">
 <img src="https://img.shields.io/badge/%3E_riteshekbote-100000?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B" alt="GitHub">
@@ -18,36 +18,35 @@
 
 ---
 
-### `> whoami`
+<div align="center">
 
-```python
-class RiteshEkbote:
-    def __init__(self):
-        self.role = "Security Researcher"
-        self.focus = "Bug Bounty Hunting"
-        self.superpower = "Automating exploits with AI agents"
-        self.motto = "Hack legally, report responsibly, earn bounties"
+<img src="https://raw.githubusercontent.com/riteshekbote/riteshekbote/main/assets/boot.svg" alt="Boot Sequence" width="600"/>
 
-    def current_mission(self):
-        return [
-            "Extracting PII from SEBI-regulated platforms",
-            "Building 24/7 autonomous hunting pipelines",
-            "Breaking things before attackers do"
-        ]
-```
+</div>
 
 ---
 
-### `> ls -la /skills/`
+<div align="center">
 
-| 🔥 Capability | 🛠️ Arsenal |
-|:---|:---|
-| **Web Hacking** | IDOR, SSRF, SQLi, XSS, Auth Bypass, OAuth, Race Conditions |
-| **Mobile Security** | Android (Frida, jadx), iOS (objection, MobSF) |
-| **LLM/AI Security** | Prompt Injection, RAG Poisoning, Agentic Attack Chains |
-| **Web3 Security** | Smart Contract Audits, DeFi Exploits, Immunefi |
-| **Cloud & Infra** | AWS/GCP/Azure IAM, K8s, Docker, CI/CD Pipeline Abuse |
-| **Automation** | GitHub Actions, Python, opencode agents, Custom Tooling |
+<img src="https://raw.githubusercontent.com/riteshekbote/riteshekbote/main/assets/radar.svg" alt="Radar" width="150"/>
+
+### `> nmap -sV --script=vuln target`
+
+```
+Starting Nmap 7.94 ( https://nmap.org )
+Scanning for vulnerabilities...
+Host is up (0.0023s latency).
+
+PORT     STATE  SERVICE  VERSION
+22/tcp   open   ssh      OpenSSH 8.4p1
+443/tcp  open   https    nginx 1.24.0
+8443/tcp open   https    Custom App
+
+VULNERABILITIES FOUND: 3
+SEVERITY: CRITICAL
+```
+
+</div>
 
 ---
 
@@ -58,58 +57,44 @@ class RiteshEkbote:
   {
     "program": "Fyers",
     "finding": "Unauthenticated Blind SQLi",
-    "impact": "7 user records extracted (emails, phones, Demat accounts)",
-    "severity": "CRITICAL",
-    "status": "REPORTED",
-    "bypass": "Hex-literal injection bypassed Cloudflare WAF"
+    "impact": "7 user records (emails, phones, Demat accounts)",
+    "severity": "🔴 CRITICAL",
+    "bypass": "Hex-literal injection → Cloudflare WAF bypass"
   },
   {
     "program": "Fyers",
     "finding": "PII Disclosure via Root Endpoint",
-    "impact": "Full customer data leak + Zoho CRM exposure",
-    "severity": "HIGH",
+    "impact": "Full customer data + Zoho CRM exposure",
+    "severity": "🟠 HIGH",
     "status": "FIXED"
   },
   {
     "program": "signageOS",
     "finding": "Broken Access Control — Org-level IDOR",
-    "impact": "Full account takeover chain, 100% coverage",
-    "severity": "CRITICAL",
-    "status": "REPORTED"
+    "impact": "Full account takeover chain",
+    "severity": "🔴 CRITICAL"
   }
 ]
 ```
 
 ---
 
-### `> cat /arsenal.sh`
+<div align="center">
 
-```bash
-#!/bin/bash
-# Recon
-RECON="subfinder | dnsx | httpx | katana | nuclei | wayback | crt.sh"
+| 🔥 Web | 📱 Mobile | 🤖 AI/LLM | ⛓️ Web3 | ☁️ Cloud |
+|:---:|:---:|:---:|:---:|:---:|
+| IDOR | Frida | Prompt Injection | Foundry | AWS |
+| SSRF | jadx | RAG Poisoning | Slither | GCP |
+| SQLi | MobSF | Agentic ASI | Echidna | K8s |
+| XSS | objection | | | Docker |
 
-# Web Exploitation
-WEB="burp | caido | ffuf | gf | sqlmap | smuggler | dalfox"
-
-# Mobile
-MOBILE="jadx | frida | objection | mobsf"
-
-# Web3
-WEB3="foundry | slither | aderyn | echidna"
-
-# AI/LLM
-AI="prompt-injection | rag-probing | agentic-asi"
-
-# Automation
-AUTO="github-actions | python | opencode"
-```
+</div>
 
 ---
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=riteshekbote&theme=redical&hide_border=true&bg_color=0d1117&color=FF6B6B&line=FF6B6B&point=ffffff" alt="Contribution Graph" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riteshekbote&theme=redical&hide_border=true&bg_color=0d1117&color=FF6B6B&line=FF6B6B&point=ffffff)
 
 </div>
 
