@@ -62,9 +62,9 @@ SEVERITY: CRITICAL
     "A04: Insecure Design — business logic flaws, race conditions, missing rate limits",
     "A05: Security Misconfiguration — default creds, debug mode, verbose errors",
     "A06: Vulnerable Components — known CVEs, outdated dependencies",
-    "A07: Auth Failures — session hijack, brute force, credential stuffing",
-    "A08: Data Integrity Failures — insecure deserialization, unsigned updates",
-    "A09: Logging Failures — missing audit trails, undetected intrusions",
+    "Session Fixation & Hijacking — cookie theft, session token reuse",
+    "Insecure Deserialization — RCE via object injection, pickle exploit",
+    "GraphQL Abuse — batching DoS, introspection leak, mutation IDOR",
     "A10: SSRF — internal network pivoting, cloud metadata exfil",
     "IDOR — cross-tenant data access, horizontal/vertical privilege abuse",
     "LLM/AI — prompt injection, RAG poisoning, data exfil via tool use"
