@@ -72,19 +72,6 @@ Security researcher who automates vulnerability discovery with AI-powered pipeli
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-ten.vercel.app/api?username=riteshekbote&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=riteshekbote&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=riteshekbote&theme=radical&hide_border=true&bg_color=0d1117&color=8a2be2&line=8a2be2&point=ffffff" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - [x] 24/7 automated hunting pipelines (Fyers, signageOS, Superhuman, Gladia, Spare)
