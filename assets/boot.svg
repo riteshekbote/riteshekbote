@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150" width="600" height="150">
+  <defs>
+    <style>
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      @keyframes type { from { width: 0; } to { width: 100%; } }
+      .cursor { animation: blink 1s step-end infinite; }
+      .line1 { opacity: 0; animation: fadeIn 0.5s ease-in 0.5s forwards; }
+      .line2 { opacity: 0; animation: fadeIn 0.5s ease-in 1s forwards; }
+      .line3 { opacity: 0; animation: fadeIn 0.5s ease-in 1.5s forwards; }
+      .line4 { opacity: 0; animation: fadeIn 0.5s ease-in 2s forwards; }
+      .line5 { opacity: 0; animation: fadeIn 0.5s ease-in 2.5s forwards; }
+      @keyframes fadeIn { to { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="600" height="150" fill="#0d1117" rx="10"/>
+  <text x="20" y="30" fill="#FF6B6B" font-family="monospace" font-size="12">$ ./init_hunter.sh</text>
+  <text class="line1" x="20" y="55" fill="#8B949E" font-family="monospace" font-size="11">[✓] Loading recon modules... <tspan fill="#3FB950">OK</tspan></text>
+  <text class="line2" x="20" y="75" fill="#8B949E" font-family="monospace" font-size="11">[✓] Initializing AI agents... <tspan fill="#3FB950">OK</tspan></text>
+  <text class="line3" x="20" y="95" fill="#8B949E" font-family="monospace" font-size="11">[✓] Connecting to bug bounty platforms... <tspan fill="#3FB950">OK</tspan></text>
+  <text class="line4" x="20" y="115" fill="#8B949E" font-family="monospace" font-size="11">[✓] Activating 24/7 hunting mode... <tspan fill="#3FB950">OK</tspan></text>
+  <text class="line5" x="20" y="140" fill="#FF6B6B" font-family="monospace" font-size="12">[🚀] System ready. Happy hacking!<tspan class="cursor">_</tspan></text>
+</svg>
