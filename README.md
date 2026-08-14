@@ -54,7 +54,7 @@ SEVERITY: CRITICAL
 
 ```json
 {
-  "total_findings": "Too many to count",
+  "total_findings": "Confidential — active submissions",
   "vuln_classes": [
     "Unauthenticated SQLi with WAF bypass",
     "PII Disclosure — full customer data leak",
