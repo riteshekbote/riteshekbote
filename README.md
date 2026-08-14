@@ -76,12 +76,7 @@ Security researcher who automates vulnerability discovery with AI-powered pipeli
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-ten.vercel.app/api?username=riteshekbote&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=riteshekbote&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=riteshekbote&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=riteshekbote&theme=radical&no-frame=true&column=6&margin-w=12" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
