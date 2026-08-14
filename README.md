@@ -1,70 +1,87 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=600&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=70&lines=Hi%2C%20I'm%20Ritesh%20Ekbote%20%F0%9F%91%8B;Bug%20Bounty%20Hunter%20%F0%9F%8E%AF;Security%20Researcher%20%F0%9F%94%8D;CTF%20Player%20%F0%9F%9A%A9;LLM%20%26%20Web3%20Security%20Enthusiast%20%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=600&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=70&lines=Hi%2C%20I'm%20Ritesh%20Ekbote%20%F0%9F%91%8B;Bug%20Bounty%20Hunter%20%F0%9F%8E%AF;Security%20Researcher%20%F0%9F%94%8D;Building%2024/7%20Automated%20Hunting%20Pipelines%20%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/riteshbote"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/riteshekbote"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ritesh-ekbote/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="mailto:ritesh@ekbote.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshbote&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/riteshbote?style=for-the-badge&logo=github&color=8A2BE2" alt="Followers" />
-  <img src="https://img.shields.io/badge/HackerOne-Open%20to%20collab-8A2BE2?style=for-the-badge" alt="HackerOne" />
+  <img src="https://komarev.com/ghpvc/?username=riteshekbote&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/riteshekbote?style=for-the-badge&logo=github&color=8A2BE2" alt="Followers" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **security researcher** who lives on the edge of the web — hunting for vulnerabilities that others miss, breaking APIs, and automating the boring parts of recon.
+Security researcher who automates vulnerability discovery with AI-powered pipelines running 24/7 on GitHub Actions.
 
-- 🎯 **Bug Bounty Hunter** — web2 (IDOR, SSRF, XSS, auth flaws), mobile (Android/iOS), and API security
-- 🧠 **LLM / AI Security** — prompt injection, RAG poisoning, agentic-AI attack chains (ASI01–ASI10)
-- ⛓️ **Web3 Security** — smart-contract audits (Solidity, Foundry), DeFi bug classes, Immunefi
-- 🚩 **CTF Player** — genzctf, whitespace warfare, web + crypto + forensics
-- 🤖 **Tooling Author** — I build scanners and pipelines that do recon 24/7 (GitHub Actions + opencode)
-- 🌱 Currently diving deeper into **cloud IAM abuse**, **HTTP smuggling**, and **source-map forensics**
-
----
-
-## ⚡ What I Do
-
-| 🛡️ Area | 🔧 Tools & Skills |
-|---|---|
-| **Recon** | subfinder, dnsx, httpx, katana, nuclei, wayback, crt.sh, CTL OSINT |
-| **Web** | Burp Suite, Caido, ffuf, gf, sqlmap, smuggler, dalfox |
-| **Mobile** | jadx, Frida, objection, frida-ios-dump, MobSF |
-| **Web3** | Foundry, Slither, Aderyn, Echidna, Medusa |
-| **LLM/AI** | prompt-injection suites, RAG probing, agentic-ASI framework |
-| **Automation** | GitHub Actions, Python, opencode agents, Docker |
+- 🎯 **Bug Bounty Hunter** — web2 (IDOR, SSRF, SQLi, auth bypass), mobile, API security
+- 🤖 **Automation Builder** — GitHub Actions + LLM agents that hunt while I sleep
+- 🧠 **LLM/AI Security** — prompt injection, RAG poisoning, agentic attack chains
+- ⛓️ **Web3 Security** — smart contract audits (Solidity, Foundry), DeFi bug classes
+- 🚩 **CTF Player** — web, crypto, forensics
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Bug Bounty Track Record
+
+| Program | Finding | Severity | Status |
+|---------|---------|----------|--------|
+| **Fyers** (SEBI-regulated) | Unauthenticated Blind SQLi — 7 user records extracted | **Critical** | Reported |
+| **Fyers** | PII Disclosure — full names, emails, Demat accounts, Zoho CRM data | **High** | Fixed |
+| **signageOS** | Broken Access Control — org-level IDOR, full account takeover chain | **Critical** | Reported |
+
+**Impact:** Extracted real customer PII (emails, phone numbers, Demat accounts) from a SEBI-regulated financial platform with zero authentication. Bypassed Cloudflare WAF using hex-literal injection.
+
+---
+
+## 🛠️ What I Build
+
+| Tool | What It Does |
+|------|--------------|
+| **[oniontui](https://github.com/riteshekbote/oniontui)** | TUI AI assistant that browses .onion hidden services through Tor with local LLMs |
+| **[DedupeAI](https://github.com/riteshekbote/DedupeAI)** | Burp Suite extension — deduplicates HTTP history, color-codes multi-account traffic for IDOR testing |
+| **[Js-Scanner](https://github.com/riteshekbote/Js-Scanner)** | JavaScript security scanner with AI-powered analysis |
+| **[SmartHunt](https://github.com/riteshekbote/SmartHunt)** | Automated bug bounty hunting pipeline |
+| **[hunt-lab](https://github.com/riteshekbote/hunt-lab)** | 24/7 multi-model AI hunting for Google VRP + Microsoft Bounty |
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,js,nodejs,react,go,rust,solidity,nginx,cloudflare,aws,gcp,azure,redis,mongodb,postgres,fastapi,flask,nextjs&perline=11" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,js,nodejs,go,rust,nginx,cloudflare,aws,gcp,redis,mongodb,postgres,fastapi&perline=11" alt="Tech Stack" />
 </p>
+
+---
+
+## 🔍 Security Arsenal
+
+| Area | Tools |
+|------|-------|
+| **Recon** | subfinder, dnsx, httpx, katana, nuclei, wayback, crt.sh |
+| **Web** | Burp Suite, Caido, ffuf, gf, sqlmap, smuggler, dalfox |
+| **Mobile** | jadx, Frida, objection, MobSF |
+| **Web3** | Foundry, Slither, Aderyn, Echidna |
+| **LLM/AI** | prompt injection suites, RAG probing, agentic ASI framework |
+| **Automation** | GitHub Actions, Python, opencode agents |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=riteshbote&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=riteshbote&theme=radical&hide_border=true&card_width=480" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riteshbote&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=riteshbote&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshbote&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshbote&theme=radical" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riteshbote&theme=radical&no-frame=true&column=6&margin-w=12" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshbote&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=riteshbote&theme=radical&no-frame=true&column=6&margin-w=12" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -73,77 +90,16 @@ I'm a **security researcher** who lives on the edge of the web — hunting for v
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/riteshbote/SmartHunt"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshbote&repo=SmartHunt&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/riteshbote/url-fyers"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshbote&repo=url-fyers&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/riteshbote/system_prompts_leaks"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshbote&repo=system_prompts_leaks&theme=radical&hide_border=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/riteshbote/IDOR-Forge"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshbote&repo=IDOR-Forge&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/riteshbote/Js-Scanner"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshbote&repo=Js-Scanner&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/riteshbote/DorkingDB"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshbote&repo=DorkingDB&theme=radical&hide_border=true" /></a>
-</p>
-
-**More tools I've built:** [APIHarvester](https://github.com/riteshbote/APIHarvester) · [AndroHunter](https://github.com/riteshbote/AndroHunter) · [BountyHound](https://github.com/riteshbote/BountyHound) · [FinalRecon](https://github.com/riteshbote/FinalRecon) · [leaker](https://github.com/riteshbote/leaker) · [frogscope](https://github.com/riteshbote/frogscope) · [medusa](https://github.com/riteshbote/medusa) · [keyhacks](https://github.com/riteshbote/keyhacks) · [bugbounty-cheatsheet](https://github.com/riteshbote/bugbounty-cheatsheet)
-
----
-
-## 🎓 Knowledge Hub
-
-- 📚 [Bug-Bounty-Methodology](https://github.com/riteshbote/Bug-Bounty-Methodology) — my hunting playbook
-- 🧠 [Awesome-LLM4Cybersecurity](https://github.com/riteshbote/Awesome-LLM4Cybersecurity) — LLM security research list
-- 🕵️ [BugBounty-Recon-Methodology](https://github.com/riteshbote/BugBounty-Recon-Methodology) — recon pipeline docs
-- 🛡️ [Android-Security-Teryaagh](https://github.com/riteshbote/Android-Security-Teryaagh) — mobile testing arsenal
-- 🔥 [KingOfBugBountyTips](https://github.com/riteshbote/KingOfBugBountyTips) — tips that pay
-
----
-
 ## 🎯 Current Focus
 
-- [x] Full-stack automated JS recon pipeline (fyers target, 24/7 GitHub Actions)
-- [x] Superhuman MCP attack-surface mapping
-- [ ] Deep-dive: source-map forensics & shadow-API discovery
+- [x] 24/7 automated hunting pipelines (Fyers, signageOS, Superhuman, Gladia, Spare)
+- [x] Blind SQLi with WAF bypass on SEBI-regulated platform
+- [ ] Source-map forensics & shadow-API discovery
 - [ ] LLM prompt-injection weaponization lab
 - [ ] Web3 audit portfolio (Immunefi)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&repeat=true&width=560&lines=Happy%20Hacking%20%F0%9F%91%8D;if%20hacking%3A%20keep%20exploring%2C%20stay%20legal%2C%20stay%20curious" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&repeat=true&width=500&lines=Hack%20legally%2C%20report%20responsibly%2C%20earn%20bounties%20%F0%9F%92%B0" alt="Footer" />
 </p>
-
-## 🏆 Achievements & Stats
-
-![GitHub followers](https://img.shields.io/github/followers/riteshekbote?style=for-the-badge&logo=github&color=6e5494)
-![GitHub stars](https://img.shields.io/github/stars/riteshekbote?style=for-the-badge&logo=github&color=6e5494)
-![GitHub repo count](https://img.shields.io/github/repo-count/riteshekbote?style=for-the-badge&logo=github&color=6e5494)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friteshekbote&count_bg=%236e5494&title_bg=%23555&title=profile+views&edge_flat=true)
-
-| Achievement | Tier | How |
-|---|---|---|
-| 🦈 Pull Shark | 🥉 | 12 merged PRs (docs, fixes, cleanups across repos) |
-| ⚡ Quickdraw | 🥉 | Issues opened & resolved in minutes |
-| 🚀 YOLO | 🥉 | Merged PRs without review |
-
-<!-- STATS:START -->
-## 📊 Live Stats
-
-| Metric | Value |
-|---|---|
-| Followers | **0** |
-| Public repos | **108** |
-| Total stars | **4** |
-
-**Recently updated:**
-
-- [spare-hunt](https://github.com/riteshekbote/spare-hunt) — 24/7 multi-model bug-hunting automation for Spare — spare.com, sparelabs.com, platform/api/routing/forms.sparelabs.com
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — 24/7 multi-model bug-hunting automation for Google VRP + Microsoft Bounty (passive, in-scope, read-only). 5 opencode models, 10-min cadence, repo deep-scan, triager validation.
-- [gladia-hunt](https://github.com/riteshekbote/gladia-hunt) — 24/7 multi-model bug-hunting automation for Gladia — api.gladia.io (Highest), app.gladia.io (High), official SDKs (Medium), gladia.io (Low)
-- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation for signageOS — box.signageos.io + api.signageos.io only
-- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
-
-> _Last refreshed: 2026-08-14 05:43 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
-<!-- STATS:END -->
