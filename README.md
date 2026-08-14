@@ -109,7 +109,7 @@ AUTO="github-actions | python | opencode"
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/riteshekbote/riteshekbote/output/github-contribution-grid-snake-dark.svg)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=riteshekbote&theme=redical&hide_border=true&bg_color=0d1117&color=FF6B6B&line=FF6B6B&point=ffffff" alt="Contribution Graph" />
 
 </div>
 
