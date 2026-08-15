@@ -56,18 +56,18 @@ SEVERITY: CRITICAL
 {
   "total_findings": "Confidential — active submissions",
   "vuln_classes": [
-    "IDOR — unauthenticated photo/PII leak, cross-tenant data access",
-    "Account Takeover — missing re-auth on password change & email update",
-    "Subdomain Takeover — dangling CNAME to deprovisioned SaaS",
-    "Insecure Deserialization — panic/crash via malformed input → DoS",
-    "Session Hijacking — replayable auth tokens & executor substitution",
-    "Command Injection — env variable hijacking in CLI tools",
-    "OAuth/PKCE Flaw — insecure plain method accepted in auth flow",
-    "Unauthenticated Config Exposure — security settings leaked to anon users",
-    "Business Logic — price tampering, race conditions, double-spend",
-    "Unsafe Concurrency — race conditions & key exposure via improper Sync",
-    "Security Misconfiguration — publicly exposed docs, debug endpoints",
-    "Infrastructure DoS — malformed input crashes operator cluster-wide"
+    "IDOR — unauthenticated resource access, cross-tenant data leak",
+    "Broken Access Control — missing auth on sensitive endpoints",
+    "Account Takeover — missing re-auth on critical actions",
+    "Subdomain Takeover — dangling CNAME to deprovisioned service",
+    "Deserialization — panic/crash via malformed input",
+    "Session Management — token replay, executor hijack",
+    "Command Injection — env variable hijacking",
+    "OAuth / OIDC — insecure PKCE, token leakage",
+    "Security Misconfiguration — exposed settings, debug endpoints",
+    "Business Logic — price manipulation, race conditions",
+    "Unsafe Concurrency — race conditions, key exposure",
+    "Infrastructure DoS — malformed input crashes service"
   ],
   "platforms_tested": "SEBI-regulated fintech, SaaS, AI/LLM, Web3",
   "status": "Multiple reports submitted, bounties incoming"
