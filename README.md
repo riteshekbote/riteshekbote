@@ -56,18 +56,18 @@ SEVERITY: CRITICAL
 {
   "total_findings": "Confidential — active submissions",
   "vuln_classes": [
-    "A01: Broken Access Control — IDOR, privilege escalation, forced browsing",
-    "A02: Cryptographic Failures — exposed secrets, weak encryption, plaintext storage",
-    "A03: Injection — SQLi, NoSQLi, LDAP, OS command injection",
-    "A04: Insecure Design — business logic flaws, race conditions, missing rate limits",
-    "A05: Security Misconfiguration — default creds, debug mode, verbose errors",
-    "A06: Vulnerable Components — known CVEs, outdated dependencies",
-    "Session Fixation & Hijacking — cookie theft, session token reuse",
-    "Insecure Deserialization — RCE via object injection, pickle exploit",
-    "GraphQL Abuse — batching DoS, introspection leak, mutation IDOR",
-    "A10: SSRF — internal network pivoting, cloud metadata exfil",
-    "IDOR — cross-tenant data access, horizontal/vertical privilege abuse",
-    "LLM/AI — prompt injection, RAG poisoning, data exfil via tool use"
+    "IDOR — unauthenticated photo/PII leak, cross-tenant data access",
+    "Account Takeover — missing re-auth on password change & email update",
+    "Subdomain Takeover — dangling CNAME to deprovisioned SaaS",
+    "Insecure Deserialization — panic/crash via malformed input → DoS",
+    "Session Hijacking — replayable auth tokens & executor substitution",
+    "Command Injection — env variable hijacking in CLI tools",
+    "OAuth/PKCE Flaw — insecure plain method accepted in auth flow",
+    "Unauthenticated Config Exposure — security settings leaked to anon users",
+    "Business Logic — price tampering, race conditions, double-spend",
+    "Unsafe Concurrency — race conditions & key exposure via improper Sync",
+    "Security Misconfiguration — publicly exposed docs, debug endpoints",
+    "Infrastructure DoS — malformed input crashes operator cluster-wide"
   ],
   "platforms_tested": "SEBI-regulated fintech, SaaS, AI/LLM, Web3",
   "status": "Multiple reports submitted, bounties incoming"
