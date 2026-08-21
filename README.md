@@ -108,17 +108,17 @@ SEVERITY: CRITICAL
 
 | Metric | Value |
 |---|---|
-| Followers | **2** |
-| Public repos | **116** |
+| Followers | **3** |
+| Public repos | **117** |
 | Total stars | **9** |
 
 **Recently updated:**
 
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — 24/7 multi-model bug-hunting automation for Google VRP + Microsoft Bounty (passive, in-scope, read-only). 5 opencode models, 10-min cadence, repo deep-scan, triager validation.
-- [spare-hunt](https://github.com/riteshekbote/spare-hunt) — 24/7 multi-model bug-hunting automation for Spare — spare.com, sparelabs.com, platform/api/routing/forms.sparelabs.com
-- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 Qwen3 abliterated (Ollama) bug-hunting automation
 - [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
-- [gladia-hunt](https://github.com/riteshekbote/gladia-hunt) — 24/7 multi-model bug-hunting automation for Gladia — api.gladia.io (Highest), app.gladia.io (High), official SDKs (Medium), gladia.io (Low)
+- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation for signageOS — box.signageos.io + api.signageos.io only
+- [whale-hunt](https://github.com/riteshekbote/whale-hunt) — 24/7 multi-model bug-hunting automation for Naver Whale browser — latest version, sync, Whale-only third-party libs
+- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 Qwen3 abliterated (Ollama) bug-hunting automation
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — 24/7 multi-model bug-hunting automation for Google VRP + Microsoft Bounty (passive, in-scope, read-only). 5 opencode models, 10-min cadence, repo deep-scan, triager validation.
 
-> _Last refreshed: 2026-08-20 04:47 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-08-21 04:49 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
