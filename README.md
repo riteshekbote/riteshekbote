@@ -109,16 +109,16 @@ SEVERITY: CRITICAL
 | Metric | Value |
 |---|---|
 | Followers | **3** |
-| Public repos | **117** |
+| Public repos | **118** |
 | Total stars | **9** |
 
 **Recently updated:**
 
 - [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
-- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation for signageOS — box.signageos.io + api.signageos.io only
-- [whale-hunt](https://github.com/riteshekbote/whale-hunt) — 24/7 multi-model bug-hunting automation for Naver Whale browser — latest version, sync, Whale-only third-party libs
 - [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 Qwen3 abliterated (Ollama) bug-hunting automation
+- [duocircle-hunt](https://github.com/riteshekbote/duocircle-hunt) — Automated bug-bounty pipeline for DuoCircle responsible disclosure (email-only program)
+- [whale-hunt](https://github.com/riteshekbote/whale-hunt) — 24/7 multi-model bug-hunting automation for Naver Whale browser — latest version, sync, Whale-only third-party libs
 - [hunt-lab](https://github.com/riteshekbote/hunt-lab) — 24/7 multi-model bug-hunting automation for Google VRP + Microsoft Bounty (passive, in-scope, read-only). 5 opencode models, 10-min cadence, repo deep-scan, triager validation.
 
-> _Last refreshed: 2026-08-21 04:49 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-08-22 04:43 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
