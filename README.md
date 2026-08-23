@@ -114,11 +114,11 @@ SEVERITY: CRITICAL
 
 **Recently updated:**
 
+- [spare-hunt](https://github.com/riteshekbote/spare-hunt) — 24/7 multi-model bug-hunting automation for Spare — spare.com, sparelabs.com, platform/api/routing/forms.sparelabs.com
+- [strategy-hunt](https://github.com/riteshekbote/strategy-hunt) — Strategy/MicroStrategy bug bounty automation - scope: bugbounty.cloud.microstrategy.com authenticated envs + Strategy assets. Filedrop portal.
+- [box-hunt](https://github.com/riteshekbote/box-hunt) — 24/7 read-only Box bug-bounty research automation (8 hosts, per-host analyst+verifier)
 - [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
-- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 Qwen3 abliterated (Ollama) bug-hunting automation
-- [duocircle-hunt](https://github.com/riteshekbote/duocircle-hunt) — Automated bug-bounty pipeline for DuoCircle responsible disclosure (email-only program)
-- [whale-hunt](https://github.com/riteshekbote/whale-hunt) — 24/7 multi-model bug-hunting automation for Naver Whale browser — latest version, sync, Whale-only third-party libs
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — 24/7 multi-model bug-hunting automation for Google VRP + Microsoft Bounty (passive, in-scope, read-only). 5 opencode models, 10-min cadence, repo deep-scan, triager validation.
+- [cycode-hunt](https://github.com/riteshekbote/cycode-hunt) — Cycode bug bounty automation - scope: app/api.cycode.com + EU + www.cycode.com. Email: security@cycode.com
 
-> _Last refreshed: 2026-08-22 04:43 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-08-23 04:47 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
