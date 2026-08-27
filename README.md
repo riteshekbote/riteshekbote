@@ -108,17 +108,17 @@ SEVERITY: CRITICAL
 
 | Metric | Value |
 |---|---|
-| Followers | **3** |
+| Followers | **4** |
 | Public repos | **118** |
 | Total stars | **9** |
 
 **Recently updated:**
 
-- [spare-hunt](https://github.com/riteshekbote/spare-hunt) — 24/7 multi-model bug-hunting automation for Spare — spare.com, sparelabs.com, platform/api/routing/forms.sparelabs.com
-- [whale-hunt](https://github.com/riteshekbote/whale-hunt) — 24/7 multi-model bug-hunting automation for Naver Whale browser — latest version, sync, Whale-only third-party libs
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — 24/7 multi-model bug-hunting automation for Google VRP + Microsoft Bounty (passive, in-scope, read-only). 5 opencode models, 10-min cadence, repo deep-scan, triager validation.
+- [box-hunt](https://github.com/riteshekbote/box-hunt) — 24/7 read-only Box bug-bounty research automation (8 hosts, per-host analyst+verifier)
+- [agicap-hunt](https://github.com/riteshekbote/agicap-hunt) — Agicap bug bounty automation - scope: agicap.com + subdomains. Email disclosure: bugbounty@agicap.com
+- [aurasell-hunt](https://github.com/riteshekbote/aurasell-hunt) — 24/7 multi-model bug-hunting automation for the Aurasell Bug Bounty program (aurasell.ai)
 - [duocircle-hunt](https://github.com/riteshekbote/duocircle-hunt) — Automated bug-bounty pipeline for DuoCircle responsible disclosure (email-only program)
-- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation for signageOS — box.signageos.io + api.signageos.io only
+- [strategy-hunt](https://github.com/riteshekbote/strategy-hunt) — Strategy/MicroStrategy bug bounty automation - scope: bugbounty.cloud.microstrategy.com authenticated envs + Strategy assets. Filedrop portal.
 
-> _Last refreshed: 2026-08-26 04:50 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-08-27 15:08 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
