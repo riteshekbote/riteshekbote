@@ -109,16 +109,16 @@ SEVERITY: CRITICAL
 | Metric | Value |
 |---|---|
 | Followers | **4** |
-| Public repos | **118** |
+| Public repos | **119** |
 | Total stars | **9** |
 
 **Recently updated:**
 
-- [box-hunt](https://github.com/riteshekbote/box-hunt) — 24/7 read-only Box bug-bounty research automation (8 hosts, per-host analyst+verifier)
-- [agicap-hunt](https://github.com/riteshekbote/agicap-hunt) — Agicap bug bounty automation - scope: agicap.com + subdomains. Email disclosure: bugbounty@agicap.com
-- [aurasell-hunt](https://github.com/riteshekbote/aurasell-hunt) — 24/7 multi-model bug-hunting automation for the Aurasell Bug Bounty program (aurasell.ai)
-- [duocircle-hunt](https://github.com/riteshekbote/duocircle-hunt) — Automated bug-bounty pipeline for DuoCircle responsible disclosure (email-only program)
-- [strategy-hunt](https://github.com/riteshekbote/strategy-hunt) — Strategy/MicroStrategy bug bounty automation - scope: bugbounty.cloud.microstrategy.com authenticated envs + Strategy assets. Filedrop portal.
+- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
+- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 Qwen3 abliterated (Ollama) bug-hunting automation
+- [yellowcard-hunt](https://github.com/riteshekbote/yellowcard-hunt) — Yellow Card bug bounty automation - scope: portal.yellowcard.io Treasury portal (unauth surface only). Email: bugbounty@yellowcard.io
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Restored Google/Microsoft VRP hunt — Muse Spark 1.2 Free Zen xhigh
+- [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bounty automation — Muse Spark 1.2 Free OpenCode Zen xhigh
 
-> _Last refreshed: 2026-08-27 15:08 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-08-28 16:32 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
