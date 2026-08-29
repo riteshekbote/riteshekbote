@@ -114,11 +114,11 @@ SEVERITY: CRITICAL
 
 **Recently updated:**
 
-- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
 - [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 Qwen3 abliterated (Ollama) bug-hunting automation
-- [yellowcard-hunt](https://github.com/riteshekbote/yellowcard-hunt) — Yellow Card bug bounty automation - scope: portal.yellowcard.io Treasury portal (unauth surface only). Email: bugbounty@yellowcard.io
 - [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Restored Google/Microsoft VRP hunt — Muse Spark 1.2 Free Zen xhigh
 - [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bounty automation — Muse Spark 1.2 Free OpenCode Zen xhigh
+- [cycode-hunt](https://github.com/riteshekbote/cycode-hunt) — Cycode bug bounty automation - scope: app/api.cycode.com + EU + www.cycode.com. Email: security@cycode.com
+- [yellowcard-hunt](https://github.com/riteshekbote/yellowcard-hunt) — Yellow Card bug bounty automation - scope: portal.yellowcard.io Treasury portal (unauth surface only). Email: bugbounty@yellowcard.io
 
-> _Last refreshed: 2026-08-28 16:32 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-08-29 10:59 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
