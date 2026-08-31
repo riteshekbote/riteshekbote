@@ -114,11 +114,11 @@ SEVERITY: CRITICAL
 
 **Recently updated:**
 
-- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 Qwen3 abliterated (Ollama) bug-hunting automation
-- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 multi-model bug-hunting automation for Threema — chat/mediator/rendezvous/apip/safe/work/broadcast/gateway/shop/billing + source code
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Restored Google/Microsoft VRP hunt — Muse Spark 1.2 Free Zen xhigh
+- [aurasell-hunt](https://github.com/riteshekbote/aurasell-hunt) — 24/7 multi-model bug-hunting automation for the Aurasell Bug Bounty program (aurasell.ai)
+- [cfoptimizer-hunt](https://github.com/riteshekbote/cfoptimizer-hunt) — 24/7 multi-model bug-hunting automation for Cash Flow Optimizer vulnerability reporting (cfoptimizer.com)
 - [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bounty automation — Muse Spark 1.2 Free OpenCode Zen xhigh
-- [agicap-hunt](https://github.com/riteshekbote/agicap-hunt) — Agicap bug bounty automation - scope: agicap.com + subdomains. Email disclosure: bugbounty@agicap.com
+- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 Qwen3 abliterated (Ollama) bug-hunting automation
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Restored Google/Microsoft VRP hunt — Muse Spark 1.2 Free Zen xhigh
 
-> _Last refreshed: 2026-08-30 09:53 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-08-31 10:46 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
