@@ -1,107 +1,69 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/riteshekbote/riteshekbote/main/assets/matrix.svg" alt="Matrix Header" width="100%"/>
+# Ritesh Ekbote
 
-<a href="https://github.com/riteshekbote">
-<img src="https://img.shields.io/badge/%3E_riteshekbote-100000?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/ritesh-ekbote/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:ritesh@ekbote.dev">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+**Bug bounty hunter · Security researcher · Automation engineer**
 
-<img src="https://komarev.com/ghpvc/?username=riteshekbote&style=for-the-badge&color=FF6B6B&label=Profile+Views" alt="Profile Views"/>
+I build automated systems that perform continuous, authorized security research —
+multi-model AI pipelines, target inventory, recon, lead discovery, triage, and verification —
+orchestrated with GitHub Actions.
+
+<a href="https://www.linkedin.com/in/ritesh-ekbote/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ritesh@ekbote.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
 ---
 
-<div align="center">
+## What I Build
 
-<img src="https://raw.githubusercontent.com/riteshekbote/riteshekbote/main/assets/boot.svg" alt="Boot Sequence" width="600"/>
+Software that turns bug-bounty hunting into a repeatable, measurable engineering discipline instead of a series of manual clicks:
 
-</div>
+- **Autonomous hunting pipelines** — scheduled, multi-model agents that move through recon → surface → hypothesis → triage → verification, one phase per cycle, with state and a shared knowledge base.
+- **Multi-model analysis** — prompt-driven analyst, triager, and verifier roles; outputs are ranked by confidence and gated through a 7-Question validation gate before anything is reported.
+- **Passive-first, scope-bound testing** — every pipeline is bound to an explicit authorized scope, uses GET/HEAD/OPTIONS-only probes where rules require it, and enforces rate limits, politeness budgets, and 403/429 grace-stops.
+- **Target inventory & verification** — per-target asset lists, live-host checks, and an honest distinction between *leads* (candidate findings) and *validated bugs*.
 
----
+The `*-hunt` repositories are concrete deployments of this model against specific authorized bug-bounty programs.
 
-<div align="center">
+## Featured Projects
 
-<img src="https://raw.githubusercontent.com/riteshekbote/riteshekbote/main/assets/radar.svg" alt="Radar" width="150"/>
+| Project | Description |
+|---|---|
+| [DedupeAI](https://github.com/riteshekbote/DedupeAI) | Burp Suite (Montoya) extension: deduplicates HTTP history into an AI-ready unique-request feed, color-codes attacker/victim traffic by listener port, and ships the set to Claude Code — built for multi-account IDOR/BOLA testing. |
+| [oniontui](https://github.com/riteshekbote/oniontui) | Terminal AI assistant that browses and searches the web — including `.onion` hidden services — through Tor, with plan-first agents, working memory, and circuit rotation. |
+| [Js-Scanner](https://github.com/riteshekbote/Js-Scanner) | AI-powered JS security audit tool: crawls a site's scripts, extracts endpoints/secrets/JWTs, and produces an interactive report. |
+| [gladia-hunt](https://github.com/riteshekbote/gladia-hunt) | 24/7 multi-model bug-hunting automation bound to the Gladia authorized scope. |
+| [threema-hunt](https://github.com/riteshekbote/threema-hunt) | 24/7 passive, read-only multi-model hunting pipeline for the Threema program. |
 
-### `> nmap -sV --script=vuln target`
+## Research Areas
 
-```
-Starting Nmap 7.94 ( https://nmap.org )
-Scanning for vulnerabilities...
-Host is up (0.0023s latency).
+**Web2** · IDOR · broken access control · auth/ATO chains · business logic · SSRF · injection
 
-PORT     STATE  SERVICE  VERSION
-22/tcp   open   ssh      OpenSSH 8.4p1
-443/tcp  open   https    nginx 1.24.0
-8443/tcp open   https    Custom App
+**Mobile** · Android/iOS app assessment (jadx, Frida, objection, MobSF)
 
-VULNERABILITIES FOUND: 3
-SEVERITY: CRITICAL
-```
+**AI/LLM** · prompt injection · RAG/vector-store poisoning · agentic AI security (ASI01–ASI10)
 
-</div>
+**Web3** · smart-contract auditing (Foundry, Slither, Echidna)
 
----
+**Cloud / infra** · AWS/GCP/K8s misconfiguration · post-credential privilege analysis
 
-### `> cat /impact_stats.json`
+## Automation & Tooling
 
-```json
-{
-  "total_findings": "Confidential — active submissions",
-  "vuln_classes": [
-    "IDOR — unauthenticated resource access, cross-tenant data leak",
-    "Broken Access Control — missing auth on sensitive endpoints",
-    "Account Takeover — missing re-auth on critical actions",
-    "Subdomain Takeover — dangling CNAME to deprovisioned service",
-    "Deserialization — panic/crash via malformed input",
-    "Session Management — token replay, executor hijack",
-    "Command Injection — env variable hijacking",
-    "OAuth / OIDC — insecure PKCE, token leakage",
-    "Security Misconfiguration — exposed settings, debug endpoints",
-    "Business Logic — price manipulation, race conditions",
-    "Unsafe Concurrency — race conditions, key exposure",
-    "Infrastructure DoS — malformed input crashes service"
-  ],
-  "platforms_tested": "SEBI-regulated fintech, SaaS, AI/LLM, Web3",
-  "status": "Multiple reports submitted, bounties incoming"
-}
-```
+`GitHub Actions` · `opencode` multi-model agents · `Python` · recon (subfinder, dnsx, httpx) · `Burp Suite` / Montoya · `Frida` · `jadx` · `Foundry` · `Slither` · orchestrating scheduled, stateful, verifiable research.
+
+## How I Work
+
+1. **Scope first** — every pipeline is bound to an explicit authorized target with exclusions and safe defaults.
+2. **Passive before active** — read-only probes where program rules require it.
+3. **Leads ≠ findings** — candidate hypotheses are triaged by a second model and validated before reporting.
+4. **Humans decide** — models propose; I verify and submit.
 
 ---
 
-<div align="center">
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=riteshekbote&theme=redical&hide_border=true&bg_color=0d1117&color=FF6B6B&line=FF6B6B&point=ffffff)](https://github.com/riteshekbote)
 
-| 🔥 Web | 📱 Mobile | 🤖 AI/LLM | ⛓️ Web3 | ☁️ Cloud |
-|:---:|:---:|:---:|:---:|:---:|
-| IDOR | Frida | Prompt Injection | Foundry | AWS |
-| SSRF | jadx | RAG Poisoning | Slither | GCP |
-| SQLi | MobSF | Agentic ASI | Echidna | K8s |
-| XSS | objection | | | Docker |
-
-</div>
-
----
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riteshekbote&theme=redical&hide_border=true&bg_color=0d1117&color=FF6B6B&line=FF6B6B&point=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
-*Hack legally. Report responsibly. Earn bounties.* 💰
-
-</div>
+*Hack legally. Report responsibly.* 🔒
 
 <!-- STATS:START -->
 ## 📊 Live Stats
