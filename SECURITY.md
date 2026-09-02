@@ -7,6 +7,7 @@ I take security research and responsible disclosure seriously.
 If you believe you have found a security issue in any of my public repositories, **do not open a public issue**. Instead, report it privately.
 
 - **Subject:** `[SECURITY] <repository-name>: <short description>`
+- babycoder143@gmail.com
 
 Please include:
 
