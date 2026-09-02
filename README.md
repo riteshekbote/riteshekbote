@@ -8,8 +8,6 @@ I build automated systems that perform continuous, authorized security research 
 multi-model AI pipelines, target inventory, recon, lead discovery, triage, and verification —
 orchestrated with GitHub Actions.
 
-<a href="https://www.linkedin.com/in/ritesh-ekbote/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:ritesh@ekbote.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
