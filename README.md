@@ -69,16 +69,16 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 | Metric | Value |
 |---|---|
 | Followers | **5** |
-| Public repos | **70** |
+| Public repos | **71** |
 | Total stars | **8** |
 
 **Recently updated:**
 
 - [onecode-hunt](https://github.com/riteshekbote/onecode-hunt) — 24/7 deep bug-hunting automation for OneCode GmbH (bugs.olivermaicher.eu)
-- [vp-bank-ag-hunt](https://github.com/riteshekbote/vp-bank-ag-hunt) — 24/7 deep bug-hunting automation for VP Bank AG (bugs.olivermaicher.eu)
-- [derdack-hunt](https://github.com/riteshekbote/derdack-hunt) — 24/7 deep bug-hunting automation for Derdack GmbH / Derdack Group (bugs.olivermaicher.eu)
-- [suedzucker-hunt](https://github.com/riteshekbote/suedzucker-hunt) — 24/7 deep bug-hunting automation for Südzucker AG / Südzucker Group (bugs.olivermaicher.eu)
-- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
+- [basf-hunt](https://github.com/riteshekbote/basf-hunt) — 24/7 deep bug-hunting automation for BASF SE / BASF Group (bugs.olivermaicher.eu)
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
+- [rainbet-hunt](https://github.com/riteshekbote/rainbet-hunt) — 24/7 deep bug-hunting automation for RainBet (bugs.olivermaicher.eu)
+- [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-09-05 08:17 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-06 08:36 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
