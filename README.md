@@ -69,16 +69,16 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 | Metric | Value |
 |---|---|
 | Followers | **5** |
-| Public repos | **71** |
+| Public repos | **72** |
 | Total stars | **8** |
 
 **Recently updated:**
 
-- [hypofriend-hunt](https://github.com/riteshekbote/hypofriend-hunt) — 24/7 deep bug-hunting automation for Hypofriend GmbH (bugs.olivermaicher.eu)
-- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
-- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
-- [easybell-hunt](https://github.com/riteshekbote/easybell-hunt) — 24/7 deep bug-hunting automation for easybell GmbH (bugs.olivermaicher.eu)
-- [gamdom-hunt](https://github.com/riteshekbote/gamdom-hunt) — 24/7 deep bug-hunting automation for Gamdom (bugs.olivermaicher.eu)
+- [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
+- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
+- [questnet-gmbh-hunt](https://github.com/riteshekbote/questnet-gmbh-hunt) — 24/7 deep bug-hunting automation for Questnet GmbH (bugs.olivermaicher.eu)
+- [fonial-hunt](https://github.com/riteshekbote/fonial-hunt) — 24/7 deep bug-hunting automation for fonial GmbH (bugs.olivermaicher.eu)
+- [roobet-hunt](https://github.com/riteshekbote/roobet-hunt) — 24/7 deep bug-hunting automation for Roobet (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-09-07 09:15 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-08 08:48 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
