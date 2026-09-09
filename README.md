@@ -68,17 +68,17 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 | Metric | Value |
 |---|---|
-| Followers | **5** |
-| Public repos | **72** |
+| Followers | **6** |
+| Public repos | **73** |
 | Total stars | **8** |
 
 **Recently updated:**
 
-- [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
-- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
+- [hornbach-hunt](https://github.com/riteshekbote/hornbach-hunt) — 24/7 deep bug-hunting automation for HORNBACH Holding AG & Co. KGaA / HORNBACH Group (bugs.olivermaicher.eu)
+- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
+- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 passive, read-only multi-model hunting pipeline for the Threema bug-bounty program, gated by scope and 7-question validation.
+- [peoplefone-hunt](https://github.com/riteshekbote/peoplefone-hunt) — 24/7 deep bug-hunting automation for peoplefone GmbH (bugs.olivermaicher.eu)
 - [questnet-gmbh-hunt](https://github.com/riteshekbote/questnet-gmbh-hunt) — 24/7 deep bug-hunting automation for Questnet GmbH (bugs.olivermaicher.eu)
-- [fonial-hunt](https://github.com/riteshekbote/fonial-hunt) — 24/7 deep bug-hunting automation for fonial GmbH (bugs.olivermaicher.eu)
-- [roobet-hunt](https://github.com/riteshekbote/roobet-hunt) — 24/7 deep bug-hunting automation for Roobet (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-09-08 08:48 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-09 08:55 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
