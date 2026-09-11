@@ -69,16 +69,16 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 | Metric | Value |
 |---|---|
 | Followers | **6** |
-| Public repos | **73** |
+| Public repos | **72** |
 | Total stars | **8** |
 
 **Recently updated:**
 
-- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
-- [kassenkompass-hunt](https://github.com/riteshekbote/kassenkompass-hunt) — 24/7 deep bug-hunting automation for KassenKompass GmbH (bugs.olivermaicher.eu)
-- [questnet-gmbh-hunt](https://github.com/riteshekbote/questnet-gmbh-hunt) — 24/7 deep bug-hunting automation for Questnet GmbH (bugs.olivermaicher.eu)
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
-- [vp-bank-ag-hunt](https://github.com/riteshekbote/vp-bank-ag-hunt) — 24/7 deep bug-hunting automation for VP Bank AG (bugs.olivermaicher.eu)
+- [roobet-hunt](https://github.com/riteshekbote/roobet-hunt) — 24/7 deep bug-hunting automation for Roobet (bugs.olivermaicher.eu)
+- [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
+- [hornbach-hunt](https://github.com/riteshekbote/hornbach-hunt) — 24/7 deep bug-hunting automation for HORNBACH Holding AG & Co. KGaA / HORNBACH Group (bugs.olivermaicher.eu)
+- [easybell-hunt](https://github.com/riteshekbote/easybell-hunt) — 24/7 deep bug-hunting automation for easybell GmbH (bugs.olivermaicher.eu)
+- [fonial-hunt](https://github.com/riteshekbote/fonial-hunt) — 24/7 deep bug-hunting automation for fonial GmbH (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-09-10 08:54 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-11 08:51 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
