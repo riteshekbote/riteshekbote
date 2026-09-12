@@ -69,16 +69,16 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 | Metric | Value |
 |---|---|
 | Followers | **6** |
-| Public repos | **72** |
+| Public repos | **74** |
 | Total stars | **8** |
 
 **Recently updated:**
 
-- [roobet-hunt](https://github.com/riteshekbote/roobet-hunt) — 24/7 deep bug-hunting automation for Roobet (bugs.olivermaicher.eu)
-- [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
-- [hornbach-hunt](https://github.com/riteshekbote/hornbach-hunt) — 24/7 deep bug-hunting automation for HORNBACH Holding AG & Co. KGaA / HORNBACH Group (bugs.olivermaicher.eu)
-- [easybell-hunt](https://github.com/riteshekbote/easybell-hunt) — 24/7 deep bug-hunting automation for easybell GmbH (bugs.olivermaicher.eu)
-- [fonial-hunt](https://github.com/riteshekbote/fonial-hunt) — 24/7 deep bug-hunting automation for fonial GmbH (bugs.olivermaicher.eu)
+- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
+- [vp-bank-ag-hunt](https://github.com/riteshekbote/vp-bank-ag-hunt) — 24/7 deep bug-hunting automation for VP Bank AG (bugs.olivermaicher.eu)
+- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 passive, read-only multi-model hunting pipeline for the Threema bug-bounty program, gated by scope and 7-question validation.
+- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
 
-> _Last refreshed: 2026-09-11 08:51 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-12 08:35 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
