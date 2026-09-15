@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
-- [cineplex-hunt](https://github.com/riteshekbote/cineplex-hunt) — 24/7 deep bug-hunting automation for Cineplex Deutschland GmbH & Co. KG / Cineplex Group (bugs.olivermaicher.eu)
-- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation bound to the signageOS authorized scope (box.signageos.com).
-- [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
-- [basf-hunt](https://github.com/riteshekbote/basf-hunt) — 24/7 deep bug-hunting automation for BASF SE / BASF Group (bugs.olivermaicher.eu)
-- [peoplefone-hunt](https://github.com/riteshekbote/peoplefone-hunt) — 24/7 deep bug-hunting automation for peoplefone GmbH (bugs.olivermaicher.eu)
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
+- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
+- [vp-bank-ag-hunt](https://github.com/riteshekbote/vp-bank-ag-hunt) — 24/7 deep bug-hunting automation for VP Bank AG (bugs.olivermaicher.eu)
+- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
+- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 passive, read-only multi-model hunting pipeline for the Threema bug-bounty program, gated by scope and 7-question validation.
 
-> _Last refreshed: 2026-09-14 09:46 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-15 09:21 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
