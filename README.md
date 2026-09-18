@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
-- [cfoptimizer-hunt](https://github.com/riteshekbote/cfoptimizer-hunt) — 24/7 multi-model bug-hunting automation for the Cash Flow Optimizer program, scope-limited to cfoptimizer.com.
-- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
 - [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
+- [betpanda-hunt](https://github.com/riteshekbote/betpanda-hunt) — 24/7 deep bug-hunting automation for BetPanda (bugs.olivermaicher.eu)
 - [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
-- [cineplex-hunt](https://github.com/riteshekbote/cineplex-hunt) — 24/7 deep bug-hunting automation for Cineplex Deutschland GmbH & Co. KG / Cineplex Group (bugs.olivermaicher.eu)
+- [rainbet-hunt](https://github.com/riteshekbote/rainbet-hunt) — 24/7 deep bug-hunting automation for RainBet (bugs.olivermaicher.eu)
+- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-09-17 09:22 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-18 08:57 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
