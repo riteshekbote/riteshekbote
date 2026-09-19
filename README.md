@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
-- [betpanda-hunt](https://github.com/riteshekbote/betpanda-hunt) — 24/7 deep bug-hunting automation for BetPanda (bugs.olivermaicher.eu)
-- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
-- [rainbet-hunt](https://github.com/riteshekbote/rainbet-hunt) — 24/7 deep bug-hunting automation for RainBet (bugs.olivermaicher.eu)
-- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
+- [fonial-hunt](https://github.com/riteshekbote/fonial-hunt) — 24/7 deep bug-hunting automation for fonial GmbH (bugs.olivermaicher.eu)
+- [suedzucker-hunt](https://github.com/riteshekbote/suedzucker-hunt) — 24/7 deep bug-hunting automation for Südzucker AG / Südzucker Group (bugs.olivermaicher.eu)
+- [hypofriend-hunt](https://github.com/riteshekbote/hypofriend-hunt) — 24/7 deep bug-hunting automation for Hypofriend GmbH (bugs.olivermaicher.eu)
+- [cineplex-hunt](https://github.com/riteshekbote/cineplex-hunt) — 24/7 deep bug-hunting automation for Cineplex Deutschland GmbH & Co. KG / Cineplex Group (bugs.olivermaicher.eu)
+- [vp-bank-ag-hunt](https://github.com/riteshekbote/vp-bank-ag-hunt) — 24/7 deep bug-hunting automation for VP Bank AG (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-09-18 08:57 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-19 08:44 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
