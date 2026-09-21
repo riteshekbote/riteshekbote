@@ -70,15 +70,15 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 |---|---|
 | Followers | **4** |
 | Public repos | **74** |
-| Total stars | **5** |
+| Total stars | **6** |
 
 **Recently updated:**
 
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
-- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
-- [derdack-hunt](https://github.com/riteshekbote/derdack-hunt) — 24/7 deep bug-hunting automation for Derdack GmbH / Derdack Group (bugs.olivermaicher.eu)
-- [suedzucker-hunt](https://github.com/riteshekbote/suedzucker-hunt) — 24/7 deep bug-hunting automation for Südzucker AG / Südzucker Group (bugs.olivermaicher.eu)
-- [avatarux-studios-hunt](https://github.com/riteshekbote/avatarux-studios-hunt) — 24/7 deep bug-hunting automation for AvatarUX Studios (bugs.olivermaicher.eu)
+- [elringklinger-hunt](https://github.com/riteshekbote/elringklinger-hunt) — 24/7 deep bug-hunting automation for ElringKlinger AG (bugs.olivermaicher.eu)
+- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation bound to the signageOS authorized scope (box.signageos.com).
+- [gladia-hunt](https://github.com/riteshekbote/gladia-hunt) — 24/7 multi-model bug-hunting automation bound to the authorized Gladia bug-bounty scope.
+- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 passive, read-only multi-model hunting pipeline for the Threema bug-bounty program, gated by scope and 7-question validation.
+- [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bug-bounty automation template (OpenCode zen xhigh) for authorized multi-target hunting.
 
-> _Last refreshed: 2026-09-20 09:13 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-21 09:51 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
