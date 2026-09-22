@@ -69,16 +69,16 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 | Metric | Value |
 |---|---|
 | Followers | **4** |
-| Public repos | **74** |
+| Public repos | **75** |
 | Total stars | **6** |
 
 **Recently updated:**
 
-- [elringklinger-hunt](https://github.com/riteshekbote/elringklinger-hunt) — 24/7 deep bug-hunting automation for ElringKlinger AG (bugs.olivermaicher.eu)
-- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation bound to the signageOS authorized scope (box.signageos.com).
-- [gladia-hunt](https://github.com/riteshekbote/gladia-hunt) — 24/7 multi-model bug-hunting automation bound to the authorized Gladia bug-bounty scope.
-- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 passive, read-only multi-model hunting pipeline for the Threema bug-bounty program, gated by scope and 7-question validation.
-- [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bug-bounty automation template (OpenCode zen xhigh) for authorized multi-target hunting.
+- [onecode-hunt](https://github.com/riteshekbote/onecode-hunt) — 24/7 deep bug-hunting automation for OneCode GmbH (bugs.olivermaicher.eu)
+- [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
+- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
+- [obi-hunt](https://github.com/riteshekbote/obi-hunt) — 24/7 deep bug-hunting automation for OBI Group Holding SE & Co. KGaA (bugs.olivermaicher.eu)
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
 
-> _Last refreshed: 2026-09-21 09:51 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-22 09:15 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
