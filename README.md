@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
+- [questnet-gmbh-hunt](https://github.com/riteshekbote/questnet-gmbh-hunt) — 24/7 deep bug-hunting automation for Questnet GmbH (bugs.olivermaicher.eu)
 - [onecode-hunt](https://github.com/riteshekbote/onecode-hunt) — 24/7 deep bug-hunting automation for OneCode GmbH (bugs.olivermaicher.eu)
+- [obi-hunt](https://github.com/riteshekbote/obi-hunt) — 24/7 deep bug-hunting automation for OBI Group Holding SE & Co. KGaA (bugs.olivermaicher.eu)
 - [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
 - [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
-- [obi-hunt](https://github.com/riteshekbote/obi-hunt) — 24/7 deep bug-hunting automation for OBI Group Holding SE & Co. KGaA (bugs.olivermaicher.eu)
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
 
-> _Last refreshed: 2026-09-22 09:15 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-23 09:15 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
