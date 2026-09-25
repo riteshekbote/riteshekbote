@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
-- [vp-bank-ag-hunt](https://github.com/riteshekbote/vp-bank-ag-hunt) — 24/7 deep bug-hunting automation for VP Bank AG (bugs.olivermaicher.eu)
-- [easybell-hunt](https://github.com/riteshekbote/easybell-hunt) — 24/7 deep bug-hunting automation for easybell GmbH (bugs.olivermaicher.eu)
-- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
-- [gamdom-hunt](https://github.com/riteshekbote/gamdom-hunt) — 24/7 deep bug-hunting automation for Gamdom (bugs.olivermaicher.eu)
+- [elringklinger-hunt](https://github.com/riteshekbote/elringklinger-hunt) — 24/7 deep bug-hunting automation for ElringKlinger AG (bugs.olivermaicher.eu)
+- [betpanda-hunt](https://github.com/riteshekbote/betpanda-hunt) — 24/7 deep bug-hunting automation for BetPanda (bugs.olivermaicher.eu)
+- [questnet-gmbh-hunt](https://github.com/riteshekbote/questnet-gmbh-hunt) — 24/7 deep bug-hunting automation for Questnet GmbH (bugs.olivermaicher.eu)
+- [kassenkompass-hunt](https://github.com/riteshekbote/kassenkompass-hunt) — 24/7 deep bug-hunting automation for KassenKompass GmbH (bugs.olivermaicher.eu)
 - [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-09-24 09:14 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-25 09:32 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
