@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
-- [elringklinger-hunt](https://github.com/riteshekbote/elringklinger-hunt) — 24/7 deep bug-hunting automation for ElringKlinger AG (bugs.olivermaicher.eu)
-- [betpanda-hunt](https://github.com/riteshekbote/betpanda-hunt) — 24/7 deep bug-hunting automation for BetPanda (bugs.olivermaicher.eu)
-- [questnet-gmbh-hunt](https://github.com/riteshekbote/questnet-gmbh-hunt) — 24/7 deep bug-hunting automation for Questnet GmbH (bugs.olivermaicher.eu)
-- [kassenkompass-hunt](https://github.com/riteshekbote/kassenkompass-hunt) — 24/7 deep bug-hunting automation for KassenKompass GmbH (bugs.olivermaicher.eu)
-- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
+- [ipb-hunt](https://github.com/riteshekbote/ipb-hunt) — 24/7 deep bug-hunting automation for IPB Internet Provider in Berlin GmbH (bugs.olivermaicher.eu)
+- [peoplefone-hunt](https://github.com/riteshekbote/peoplefone-hunt) — 24/7 deep bug-hunting automation for peoplefone GmbH (bugs.olivermaicher.eu)
+- [suedzucker-hunt](https://github.com/riteshekbote/suedzucker-hunt) — 24/7 deep bug-hunting automation for Südzucker AG / Südzucker Group (bugs.olivermaicher.eu)
+- [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
+- [basf-hunt](https://github.com/riteshekbote/basf-hunt) — 24/7 deep bug-hunting automation for BASF SE / BASF Group (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-09-25 09:32 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-26 09:17 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
