@@ -69,16 +69,16 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 | Metric | Value |
 |---|---|
 | Followers | **4** |
-| Public repos | **75** |
+| Public repos | **55** |
 | Total stars | **6** |
 
 **Recently updated:**
 
-- [ipb-hunt](https://github.com/riteshekbote/ipb-hunt) — 24/7 deep bug-hunting automation for IPB Internet Provider in Berlin GmbH (bugs.olivermaicher.eu)
-- [peoplefone-hunt](https://github.com/riteshekbote/peoplefone-hunt) — 24/7 deep bug-hunting automation for peoplefone GmbH (bugs.olivermaicher.eu)
-- [suedzucker-hunt](https://github.com/riteshekbote/suedzucker-hunt) — 24/7 deep bug-hunting automation for Südzucker AG / Südzucker Group (bugs.olivermaicher.eu)
-- [daimler-truck-hunt](https://github.com/riteshekbote/daimler-truck-hunt) — 24/7 deep bug-hunting automation for Daimler Truck Holding AG (bugs.olivermaicher.eu)
-- [basf-hunt](https://github.com/riteshekbote/basf-hunt) — 24/7 deep bug-hunting automation for BASF SE / BASF Group (bugs.olivermaicher.eu)
+- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
+- [aurasell-hunt](https://github.com/riteshekbote/aurasell-hunt) — 24/7 multi-model bug-hunting automation bound to the Aurasell bug-bounty program, scope-limited and target-gated.
+- [cfoptimizer-hunt](https://github.com/riteshekbote/cfoptimizer-hunt) — 24/7 multi-model bug-hunting automation for the Cash Flow Optimizer program, scope-limited to cfoptimizer.com.
+- [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bug-bounty automation template (OpenCode zen xhigh) for authorized multi-target hunting.
+- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation bound to the signageOS authorized scope (box.signageos.com).
 
-> _Last refreshed: 2026-09-26 09:17 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-27 09:57 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
