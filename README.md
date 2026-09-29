@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
+- [gladia-hunt](https://github.com/riteshekbote/gladia-hunt) — 24/7 multi-model bug-hunting automation bound to the authorized Gladia bug-bounty scope.
+- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation bound to the signageOS authorized scope (box.signageos.com).
+- [aurasell-hunt](https://github.com/riteshekbote/aurasell-hunt) — 24/7 multi-model bug-hunting automation bound to the Aurasell bug-bounty program, scope-limited and target-gated.
+- [cfoptimizer-hunt](https://github.com/riteshekbote/cfoptimizer-hunt) — 24/7 multi-model bug-hunting automation for the Cash Flow Optimizer program, scope-limited to cfoptimizer.com.
 - [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bug-bounty automation template (OpenCode zen xhigh) for authorized multi-target hunting.
-- [sumup-hunt](https://github.com/riteshekbote/sumup-hunt) — 24/7 deep bug-hunting automation for SumUp Payments Limited / SumUp Group (bugs.olivermaicher.eu)
-- [kassenkompass-hunt](https://github.com/riteshekbote/kassenkompass-hunt) — 24/7 deep bug-hunting automation for KassenKompass GmbH (bugs.olivermaicher.eu)
-- [onecode-hunt](https://github.com/riteshekbote/onecode-hunt) — 24/7 deep bug-hunting automation for OneCode GmbH (bugs.olivermaicher.eu)
-- [hypofriend-hunt](https://github.com/riteshekbote/hypofriend-hunt) — 24/7 deep bug-hunting automation for Hypofriend GmbH (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-09-28 10:48 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-09-29 10:36 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
