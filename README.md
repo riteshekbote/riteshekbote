@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
-- [onecode-hunt](https://github.com/riteshekbote/onecode-hunt) — 24/7 deep bug-hunting automation for OneCode GmbH (bugs.olivermaicher.eu)
-- [sumup-hunt](https://github.com/riteshekbote/sumup-hunt) — 24/7 deep bug-hunting automation for SumUp Payments Limited / SumUp Group (bugs.olivermaicher.eu)
-- [derdack-hunt](https://github.com/riteshekbote/derdack-hunt) — 24/7 deep bug-hunting automation for Derdack GmbH / Derdack Group (bugs.olivermaicher.eu)
-- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
-- [yellowcard-hunt](https://github.com/riteshekbote/yellowcard-hunt) — Yellow Card bug-bounty automation, scope-limited to portal.yellowcard.io and authorized treasury/app surfaces.
+- [cineplex-hunt](https://github.com/riteshekbote/cineplex-hunt) — 24/7 deep bug-hunting automation for Cineplex Deutschland GmbH & Co. KG / Cineplex Group (bugs.olivermaicher.eu)
+- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 passive, read-only multi-model hunting pipeline for the Threema bug-bounty program, gated by scope and 7-question validation.
+- [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bug-bounty automation template (OpenCode zen xhigh) for authorized multi-target hunting.
+- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
+- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-10-02 10:26 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-10-03 09:48 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
