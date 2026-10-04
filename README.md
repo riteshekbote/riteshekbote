@@ -69,16 +69,16 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 | Metric | Value |
 |---|---|
 | Followers | **4** |
-| Public repos | **55** |
+| Public repos | **56** |
 | Total stars | **6** |
 
 **Recently updated:**
 
+- [agicap-hunt](https://github.com/riteshekbote/agicap-hunt) — Agicap bug-bounty automation, scope-limited to agicap.com and authorized subdomains.
+- [kassenkompass-hunt](https://github.com/riteshekbote/kassenkompass-hunt) — 24/7 deep bug-hunting automation for KassenKompass GmbH (bugs.olivermaicher.eu)
+- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
 - [cineplex-hunt](https://github.com/riteshekbote/cineplex-hunt) — 24/7 deep bug-hunting automation for Cineplex Deutschland GmbH & Co. KG / Cineplex Group (bugs.olivermaicher.eu)
-- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 passive, read-only multi-model hunting pipeline for the Threema bug-bounty program, gated by scope and 7-question validation.
-- [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bug-bounty automation template (OpenCode zen xhigh) for authorized multi-target hunting.
-- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
-- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
+- [hypofriend-hunt](https://github.com/riteshekbote/hypofriend-hunt) — 24/7 deep bug-hunting automation for Hypofriend GmbH (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-10-03 09:48 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-10-04 10:31 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
