@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
-- [agicap-hunt](https://github.com/riteshekbote/agicap-hunt) — Agicap bug-bounty automation, scope-limited to agicap.com and authorized subdomains.
+- [sumup-hunt](https://github.com/riteshekbote/sumup-hunt) — 24/7 deep bug-hunting automation for SumUp Payments Limited / SumUp Group (bugs.olivermaicher.eu)
 - [kassenkompass-hunt](https://github.com/riteshekbote/kassenkompass-hunt) — 24/7 deep bug-hunting automation for KassenKompass GmbH (bugs.olivermaicher.eu)
-- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
-- [cineplex-hunt](https://github.com/riteshekbote/cineplex-hunt) — 24/7 deep bug-hunting automation for Cineplex Deutschland GmbH & Co. KG / Cineplex Group (bugs.olivermaicher.eu)
+- [derdack-hunt](https://github.com/riteshekbote/derdack-hunt) — 24/7 deep bug-hunting automation for Derdack GmbH / Derdack Group (bugs.olivermaicher.eu)
 - [hypofriend-hunt](https://github.com/riteshekbote/hypofriend-hunt) — 24/7 deep bug-hunting automation for Hypofriend GmbH (bugs.olivermaicher.eu)
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
 
-> _Last refreshed: 2026-10-04 10:31 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-10-05 11:22 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
