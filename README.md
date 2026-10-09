@@ -74,11 +74,11 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 **Recently updated:**
 
-- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
-- [sumup-hunt](https://github.com/riteshekbote/sumup-hunt) — 24/7 deep bug-hunting automation for SumUp Payments Limited / SumUp Group (bugs.olivermaicher.eu)
+- [agicap-hunt](https://github.com/riteshekbote/agicap-hunt) — Agicap bug-bounty automation, scope-limited to agicap.com and authorized subdomains.
 - [cineplex-hunt](https://github.com/riteshekbote/cineplex-hunt) — 24/7 deep bug-hunting automation for Cineplex Deutschland GmbH & Co. KG / Cineplex Group (bugs.olivermaicher.eu)
-- [kassenkompass-hunt](https://github.com/riteshekbote/kassenkompass-hunt) — 24/7 deep bug-hunting automation for KassenKompass GmbH (bugs.olivermaicher.eu)
-- [cycode-hunt](https://github.com/riteshekbote/cycode-hunt) — Cycode bug-bounty automation, scope-limited to app/api.cycode.com and related EU/www surfaces.
+- [hypofriend-hunt](https://github.com/riteshekbote/hypofriend-hunt) — 24/7 deep bug-hunting automation for Hypofriend GmbH (bugs.olivermaicher.eu)
+- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
+- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-10-08 11:17 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-10-09 11:15 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
