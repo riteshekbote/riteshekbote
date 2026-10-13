@@ -68,17 +68,17 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 
 | Metric | Value |
 |---|---|
-| Followers | **4** |
+| Followers | **5** |
 | Public repos | **56** |
 | Total stars | **6** |
 
 **Recently updated:**
 
-- [gladia-hunt](https://github.com/riteshekbote/gladia-hunt) — 24/7 multi-model bug-hunting automation bound to the authorized Gladia bug-bounty scope.
-- [threema-hunt](https://github.com/riteshekbote/threema-hunt) — 24/7 passive, read-only multi-model hunting pipeline for the Threema bug-bounty program, gated by scope and 7-question validation.
-- [cycode-hunt](https://github.com/riteshekbote/cycode-hunt) — Cycode bug-bounty automation, scope-limited to app/api.cycode.com and related EU/www surfaces.
+- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation bound to the signageOS authorized scope (box.signageos.com).
+- [strategy-hunt](https://github.com/riteshekbote/strategy-hunt) — Strategy/MicroStrategy bug-bounty automation, scope-limited to bugbounty.cloud and authorized surfaces.
+- [hunt-lab](https://github.com/riteshekbote/hunt-lab) — Google/Microsoft VRP hunting automation (restored) for authorized bug-bounty research.
 - [hunt-100](https://github.com/riteshekbote/hunt-100) — 100+ bug-bounty automation template (OpenCode zen xhigh) for authorized multi-target hunting.
-- [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
+- [cineplex-hunt](https://github.com/riteshekbote/cineplex-hunt) — 24/7 deep bug-hunting automation for Cineplex Deutschland GmbH & Co. KG / Cineplex Group (bugs.olivermaicher.eu)
 
-> _Last refreshed: 2026-10-12 11:51 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-10-13 11:40 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
