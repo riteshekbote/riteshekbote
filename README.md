@@ -70,15 +70,15 @@ The `*-hunt` repositories are concrete deployments of this model against specifi
 |---|---|
 | Followers | **5** |
 | Public repos | **56** |
-| Total stars | **6** |
+| Total stars | **7** |
 
 **Recently updated:**
 
+- [derdack-hunt](https://github.com/riteshekbote/derdack-hunt) — 24/7 deep bug-hunting automation for Derdack GmbH / Derdack Group (bugs.olivermaicher.eu)
+- [sumup-hunt](https://github.com/riteshekbote/sumup-hunt) — 24/7 deep bug-hunting automation for SumUp Payments Limited / SumUp Group (bugs.olivermaicher.eu)
+- [hypofriend-hunt](https://github.com/riteshekbote/hypofriend-hunt) — 24/7 deep bug-hunting automation for Hypofriend GmbH (bugs.olivermaicher.eu)
 - [qwen-hunt](https://github.com/riteshekbote/qwen-hunt) — 24/7 AI bug-hunting automation powered by local Qwen3 abliterated models via Ollama, scope-bound and passive-first.
-- [signageos-hunt](https://github.com/riteshekbote/signageos-hunt) — 24/7 multi-model bug-hunting automation bound to the signageOS authorized scope (box.signageos.com).
-- [onecode-hunt](https://github.com/riteshekbote/onecode-hunt) — 24/7 deep bug-hunting automation for OneCode GmbH (bugs.olivermaicher.eu)
-- [n26-hunt](https://github.com/riteshekbote/n26-hunt) — 24/7 deep bug-hunting automation for N26 Bank AG (bugs.olivermaicher.eu)
-- [alfaview-hunt](https://github.com/riteshekbote/alfaview-hunt) — 24/7 deep bug-hunting automation for alfaview gmbh (bugs.olivermaicher.eu)
+- [yellowcard-hunt](https://github.com/riteshekbote/yellowcard-hunt) — Yellow Card bug-bounty automation, scope-limited to portal.yellowcard.io and authorized treasury/app surfaces.
 
-> _Last refreshed: 2026-10-15 09:05 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
+> _Last refreshed: 2026-10-16 08:57 UTC — auto-updated daily by GitHub Actions (`.github/workflows/profile-stats.yml`)_
 <!-- STATS:END -->
